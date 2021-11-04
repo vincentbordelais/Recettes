@@ -1,0 +1,28 @@
+# French translation of Smart Title (8.x-1.0-beta1)
+# Copyright (c) 2020 by the French translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Smart Title (8.x-1.0-beta1)\n"
+"POT-Creation-Date: 2020-04-22 08:47+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid "Content"
+msgstr "Contenu"
+msgid "Cancel"
+msgstr "Annuler"
+msgid "Edit"
+msgstr "Modifier"
+msgid "Update"
+msgstr "Mettre à jour"
+msgid "CSS classes"
+msgstr "Classes CSS"
+msgid "About"
+msgstr "À propos"
+msgid "Format settings:"
+msgstr "Paramètres de format:"
